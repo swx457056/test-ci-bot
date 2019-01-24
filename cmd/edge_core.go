@@ -1,5 +1,5 @@
 package main
-
+// Test the CI-BOT PR
 import (
 	"github.com/kubeedge/kubeedge/beehive/pkg/core"
 
