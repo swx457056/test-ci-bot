@@ -1,7 +1,6 @@
 package main
 
 //EdgeCore CI-BOT Test
-
 import (
 	"github.com/kubeedge/kubeedge/beehive/pkg/core"
 
