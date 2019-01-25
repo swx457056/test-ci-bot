@@ -1,4 +1,5 @@
 package main
+//CI-Bot Test
 
 import (
 	"github.com/kubeedge/kubeedge/beehive/pkg/core"
