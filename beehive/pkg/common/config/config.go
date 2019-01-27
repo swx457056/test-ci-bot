@@ -1,5 +1,7 @@
 package config
 
+//TEST
+
 import (
 	"fmt"
 	"os"
