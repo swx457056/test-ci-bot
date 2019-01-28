@@ -98,6 +98,7 @@ func (tm *testManager) configmapHandler(w http.ResponseWriter, req *http.Request
 		msgReq := message.BuildMsg("edgehub", string(p.UID), "test", "fakeNamespace/configmap/"+string(p.UID), operation, p)
 		tm.context.Send("metaManager", *msgReq)
 		log.LOGGER.Infof("send message to metaManager is %+v\n", msgReq)
+		log.LOGGER.Infof("SEND MESSAGE")
 	}
 }
 
