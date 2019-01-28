@@ -1,5 +1,5 @@
 package dtmanager
-
+//dtmanager
 import (
 	"github.com/kubeedge/kubeedge/beehive/pkg/common/log"
 	"github.com/kubeedge/kubeedge/beehive/pkg/core"
