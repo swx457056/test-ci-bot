@@ -1,5 +1,4 @@
 # KubeEdge Tests
-##TESTING########
 #PRRRRRRRRR#
 #Testing CI-BOT
 # KubeEdge
